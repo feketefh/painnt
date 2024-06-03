@@ -1,1 +1,1 @@
-A MakeCode (Microbit) paint program, what share function
+A MakeCode (Microbit) paint program, with share function
